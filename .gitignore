@@ -1,0 +1,21 @@
+# 构建、缓存及本机运行数据
+build/
+dist/
+bin/
+obj/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+test-results/
+*.log
+.env
+.env.*
+!.env.example
+backups/
+*.conf
+settings.json
+auth.json
+*.exe
+*.zip
+*.7z
